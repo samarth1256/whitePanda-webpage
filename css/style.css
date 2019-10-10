@@ -165,7 +165,7 @@ body.fixed .header-fixed .header-limiter nav {
 
 }
 
-@import url("//cdnjs.cloudflare.com/ajax/libs/font-awesome/4.0.3/css/font-awesome.min.css");
+@import url("https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.0.3/css/font-awesome.min.css");
 .menu {
   position: fixed;
   top: 0;
